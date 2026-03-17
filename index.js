@@ -11,7 +11,7 @@ function createBot() {
         host: 'search-sk.gl.joinmc.link', 
         port: 25565,             
         username: 'JohnnySins',
-        version: '1.21.1' 
+        version: '1.21.11' 
     });
 
     // Helper function to handle teleporting safely
