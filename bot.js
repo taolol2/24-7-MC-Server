@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 const HOST = 'search-sk.gl.joinmc.link'
 const PORT = 25565
 const USERNAME = 'JohnnySins'
-const VERSION = '1.21.1'
+const VERSION = '1.21.11'
 const TP_COORDS = { x: -37, y: 165, z: -441 }
 
 let bot
@@ -124,5 +124,5 @@ Render gives you a free always-on worker. You need a **GitHub account** first.
    git add .
    git commit -m "first commit"
    git branch -M main
-   git remote add origin https://github.com/YOURUSERNAME/mcbot.git
+   git remote add origin https://github.com/taolol2/mcbot.git
    git push -u origin main
