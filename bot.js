@@ -4,7 +4,7 @@ const http = require('http')
 const HOST = 'search-sk.gl.joinmc.link'
 const PORT = 25565
 const USERNAME = 'JohnnySins'
-const VERSION = '1.21.1'
+const VERSION = '1.21.11'
 const TP_COORDS = { x: -37, y: 165, z: -441 }
 
 // Keep-alive web server so Render doesn't sleep
