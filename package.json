@@ -1,12 +1,17 @@
 {
   "name": "mc-afk-bot",
   "version": "1.0.0",
+  "description": "24/7 AFK Bot with Voice Chat Fix",
   "main": "index.js",
   "dependencies": {
-    "mineflayer": "latest",
-    "express": "latest"
+    "mineflayer": "^4.35.0",
+    "express": "^4.21.0",
+    "mineflayer-simple-voice-chat": "latest"
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
